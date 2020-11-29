@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcentrationCS", "ConcentrationCS\ConcentrationCS.csproj", "{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DCB85741-D3B9-4F73-AC03-39F8FC7DC6DD}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
